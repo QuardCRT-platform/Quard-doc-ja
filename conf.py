@@ -46,6 +46,6 @@ html_theme_options = {
     'globaltoc_includehidden': False,
 
     "nav_links": [
-        {"href": "インストール","internal": True,"title": "インストール"},
+        {"href": "installation","internal": True,"title": "インストール"},
     ],
 }
