@@ -23,9 +23,9 @@ extensions = ['myst_parser']
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-language = ['en']
+language = ['ja']
 html_theme = 'sphinx_material'
-html_title = 'Home'
+html_title = 'ホーム'
 
 html_sidebars = {
     "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
@@ -46,6 +46,6 @@ html_theme_options = {
     'globaltoc_includehidden': False,
 
     "nav_links": [
-        {"href": "installation","internal": True,"title": "Installation"},
+        {"href": "インストール","internal": True,"title": "インストール"},
     ],
 }

@@ -1,3 +1,7 @@
+.. raw:: html
+
+   <div style="text-align: right"><a href="../../en/latest/index.html">🇺🇸 English</a> | <a href="../../zh-cn/latest/index.html">🇨🇳 简体中文</a> | <a href="../../zh-tw/latest/index.html">🇭🇰 繁體中文</a> | <a href="../../ja/latest/index.html">🇯🇵 日本語</a></div>
+
 quardCRT
 ----------------------------------
 
@@ -38,23 +42,20 @@ quardCRT
    :target: https://gitee.com/QQxiaoming/quardCRT
    :alt: Gitee forks
 
-********
-quardCRT
-********
 .. image:: ./img/windows.png
 .. image:: ./img/macos.png
 .. image:: ./img/linux.png
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: 目次:
 
-   Installation<installation.md>
-   Usage<usage.md>
-   Configuration<configuration.md>
-   FAQ<faq.md>
-   Contributing<contributing.md>
-   Changelog<changelog.md>
-   License<license.md>
-   Roadmap<roadmap.md>
-   Acknowledgements<acknowledgements.md>
+   インストール<installation.md>
+   使い方<usage.md>
+   設定<configuration.md>
+   よくある質問<faq.md>
+   貢献<contributing.md>
+   更新履歴<changelog.md>
+   ライセンス<license.md>
+   ロードマップ<roadmap.md>
+   謝辞<acknowledgements.md>

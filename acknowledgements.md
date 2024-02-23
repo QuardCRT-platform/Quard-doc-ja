@@ -1,6 +1,8 @@
-# Acknowledgements
+<div style="text-align: right"><a href="../../en/latest/acknowledgements.html">🇺🇸 English</a> | <a href="../../zh-cn/latest/acknowledgements.html">🇨🇳 简体中文</a> | <a href="../../zh-tw/latest/acknowledgements.html">🇭🇰 繁體中文</a> | <a href="../../ja/latest/acknowledgements.html">🇯🇵 日本語</a></div>
 
-The code of this project references or partially refers to or depends on the following open source projects. The project fully respects the open source agreement of the original project and would like to express its gratitude.
+# 謝辞
+
+このプロジェクトのコードは、以下のオープンソース プロジェクトを参照または部分的に参照または依存しています。プロジェクトは、元のプロジェクトのオープンソース契約を完全に尊重し、感謝の意を表明します。
 
 - [QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet)
 - [QFontIcon](https://github.com/dridk/QFontIcon)

@@ -1,7 +1,9 @@
-# Contributing
+<div style="text-align: right"><a href="../../en/latest/contributing.html">🇺🇸 English</a> | <a href="../../zh-cn/latest/contributing.html">🇨🇳 简体中文</a> | <a href="../../zh-tw/latest/contributing.html">🇭🇰 繁體中文</a> | <a href="../../ja/latest/contributing.html">🇯🇵 日本語</a></div>
 
-If you have suggestions or ideas for this project, please submit issues and pull requests on GitHub or Gitee.
+# 貢献
 
-If you want to improve/fix the known issues, you can check [TODO](./TODO.md).
+このプロジェクトに対する提案やアイデアがある場合は、GitHub または Gitee で issue と pull request を提出してください。
 
-The current project is recommended to use version Qt6.5.0 and above.
+既知の問題を改善/修正する場合は、[TODO](./TODO.md) を確認できます。
+
+現在のプロジェクトは、バージョン Qt6.5.0 以上を使用することをお勧めします。
