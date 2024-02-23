@@ -96,7 +96,7 @@ QuardCRTは、複数のバックエンドプロトコルをサポートし、依
 プラグイン
 ----------------------------------
 
-quardCRTはV0.4.0からプラグインをサポートし、プラグインはQtプラグインの形式で提供され、動的ライブラリの形式でロードされます。プラグイン開発情報についての詳細は、プラグインオープンプラットフォーム`platform <https://github.com/QuardCRT-platform>`_を参照してください。このプラットフォームは、プラグイン開発のためのテンプレートリポジトリと関連する例を提供します。現在、プラグイン機能はまだ早期開発段階にあります。良いアイデアや提案がある場合は、`GitHub <https://github.com/QQxiaoming/quardCRT>`_または`Gitee <https://gitee.com/QQxiaoming/quardCRT>`_でissuesやディスカッションを提出してください。
+quardCRTはV0.4.0からプラグインをサポートし、プラグインはQtプラグインの形式で提供され、動的ライブラリの形式でロードされます。プラグイン開発情報についての詳細は、プラグインオープンプラットフォーム `platform <https://github.com/QuardCRT-platform>`_ を参照してください。このプラットフォームは、プラグイン開発のためのテンプレートリポジトリと関連する例を提供します。現在、プラグイン機能はまだ早期開発段階にあります。良いアイデアや提案がある場合は、 `GitHub <https://github.com/QQxiaoming/quardCRT>`_ または `Gitee <https://gitee.com/QQxiaoming/quardCRT>`_ でissuesやディスカッションを提出してください。
 
 .. toctree::
    :maxdepth: 3
