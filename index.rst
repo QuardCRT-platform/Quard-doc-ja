@@ -106,6 +106,8 @@ quardCRTはV0.4.0からプラグインをサポートし、プラグインはQt�
    インストール<installation.md>
    使い方<usage.md>
    設定<configuration.md>
+   スクリプト<scripts.md>
+   プラグイン<plugins.md>
    よくある質問<faq.md>
    貢献<contributing.md>
    更新履歴<changelog.md>
