@@ -91,5 +91,6 @@ sudo dpkg -i quardCRT_Linux_Vxxx_x86_64.deb
 他のアプリストアでも QuardCRT を提供しています。アプリストアからダウンロードすることができます。通常、インストール手順はより便利です。現在、以下のアプリストアを提供しています。
 
 - Deepin Store
+- Spark Store [Spk Link](spk://store/development/quardcrt)
 
 将来、他のアプリストアも追加する予定です。
