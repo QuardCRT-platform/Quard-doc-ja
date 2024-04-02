@@ -4,6 +4,9 @@
 
 ## [[リリース予定](https://github.com/QQxiaoming/quardCRT)]
 
+- テキストが元の 100% の透明度ではなく 50% の透明度で強調された後にテキストを選択するように端末を変更します。
+- シンボル「×」「÷」の幅が異常になる問題を修正
+
 ## [[V0.4.4](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.4)] - 2024-03-26
 
 - ascii 送受信、Kermit 送受信、xyzmodem 送受信機能を追加
