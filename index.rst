@@ -114,3 +114,4 @@ quardCRTはV0.4.0からプラグインをサポートし、プラグインはQt�
    ライセンス<license.md>
    ロードマップ<roadmap.md>
    謝辞<acknowledgements.md>
+   プライバシー<privacy.md>
