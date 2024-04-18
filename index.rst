@@ -99,6 +99,14 @@ QuardCRTは、複数のバックエンドプロトコルをサポートし、依
 
 quardCRTはV0.4.0からプラグインをサポートし、プラグインはQtプラグインの形式で提供され、動的ライブラリの形式でロードされます。プラグイン開発情報についての詳細は、プラグインオープンプラットフォーム `platform <https://github.com/QuardCRT-platform>`_ を参照してください。このプラットフォームは、プラグイン開発のためのテンプレートリポジトリと関連する例を提供します。現在、プラグイン機能はまだ早期開発段階にあります。良いアイデアや提案がある場合は、 `GitHub <https://github.com/QQxiaoming/quardCRT>`_ または `Gitee <https://gitee.com/QQxiaoming/quardCRT>`_ でissuesやディスカッションを提出してください。
 
+----------------------------------
+ストアからインストール
+----------------------------------
+
+.. image:: https://get.microsoft.com/images/ja-jp%20dark.svg
+   :target: https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct
+   :alt: Microsoft Store
+
 .. toctree::
    :maxdepth: 3
    :caption: 目次:
