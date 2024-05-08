@@ -2,7 +2,19 @@
 
 # インストール
 
-QuardCRTはクロスプラットフォームのターミナルエミュレータで、Windows、MacOS、Linuxをサポートしています。プラットフォームに応じて対応するパッケージをダウンロードすることができます。
+QuardCRTはクロスプラットフォームのターミナルエミュレータで、Windows、MacOS、Linuxをサポートしています。可能であれば、まずはネイティブプラットフォームの公式アプリケーションマーケットを通じてQuardCRTをインストールすることをお勧めします。
+
+## アプリストア
+
+QuardCRTは現在、以下のアプリストアで利用可能です。
+
+- [![Microsoft Store](https://get.microsoft.com/images/ja-jp%20dark.svg)](https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct)
+- [Spark Store](https://www.spark-app.store/store/application/quardcrt)
+- Deepin Store
+
+将来、さらに多くのアプリストアが利用可能になります。
+
+もちろん、自分のプラットフォームに応じて対応するインストールパッケージをダウンロードすることもできます。
 
 ## ダウンロード
 
@@ -85,13 +97,3 @@ deb パッケージをダブルクリックし、プロンプトに従ってイ�
 ```bash
 sudo dpkg -i quardCRT_Linux_Vxxx_x86_64.deb
 ```
-
-## その他のアプリストア
-
-他のアプリストアでも QuardCRT を提供しています。アプリストアからダウンロードすることができます。通常、インストール手順はより便利です。現在、以下のアプリストアを提供しています。
-
-- [Microsoft Store](https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct)
-- [Spark Store](https://www.spark-app.store/store/application/quardcrt)
-- Deepin Store
-
-将来、他のアプリストアも追加する予定です。
