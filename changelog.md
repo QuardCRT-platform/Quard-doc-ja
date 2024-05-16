@@ -25,6 +25,7 @@
 - セッションを削除するときの確認ダイアログを追加
 - コンテキストメニューが完全に表示されず、操作が困難な問題を修正
 - Windows での一部のテーマ切り替えによる表示の異常を修正
+- 事前ビルドプラグイン [onestep](https://github.com/QuardCRT-platform/plugin-onestep) を V0.0.3 に更新
 
 ## [[V0.4.4](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.4)] - 2024-03-26
 
@@ -54,7 +55,7 @@
 - MacOS でのフルスクリーン時のクラッシュ問題を修正
 - MacOS のネイティブ UI モードでタイトルボタンが macos スタイルに切り替わらない問題を修正
 - MacOS のネイティブ UI スタイルでタイトルボタンフルスクリーンを通じてメインウィンドウのコンテキストメニューでフルスクリーンからの終了オプションが表示されない問題を修正
-- 事前ビルドバージョンに[プラグインエコシステムプラットフォーム](https://github.com/QuardCRT-platform)のための事前ビルドプラグインパッケージングを追加
+- 事前ビルドバージョンは、初めて[プラグインエコシステムプラットフォーム](https://github.com/QuardCRT-platform)用のプリビルドプラグインパッケージングを追加し、プラグイン [SearchOnWeb](https://github.com/QuardCRT-platform/plugin-SearchOnWeb)、[onestep](https://github.com/QuardCRT-platform/plugin-onestep)、[quickcomplete](https://github.com/QuardCRT-platform/plugin-quickcomplete) を含みます
 
 ## [[V0.4.1](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.1)] - 2024-01-13
 
