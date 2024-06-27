@@ -4,6 +4,44 @@
 
 ## [[リリース予定](https://github.com/QQxiaoming/quardCRT)]
 
+- エコー機能を追加
+- 一部のセッションタイプが再接続できない問題を修正
+- 非接続状態のセッションが Enter キーをクリックすると自動的に再接続される機能を追加
+- シリアルポートが物理的な接続の切断を自動的に検出する機能を追加
+
+## [[V0.4.7](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.7)] - 2024-06-26
+
+- ブロードキャストセッション機能を追加 [#36](https://github.com/QQxiaoming/quardCRT/issues/36)
+- ラベルタグカラー機能を追加
+- ブロック選択 (Shift+click) および列選択 (Alt+Shift+click) 機能を追加
+- ユーザー定義のカーソルカラー設定を追加
+- 設定のオプション項目にツールチップを追加
+- ローカルターミナルのデフォルト起動シェルを設定するための高度なオプションを追加 (Linux/MacOS では $SHELL がデフォルト、Windows ではシステム組み込みの PowerShell がデフォルトになります。この機能は Windows 上の PowerShell のバージョンを調整するためにのみ使用され、他のシェルを起動するためではなく、他のシェルは LocalShell セッションを使用して特定のコマンドを設定してください)
+- 現在実行中のセッションの設定を変更することによって発生するクラッシュ問題を修正
+- 複数のスクリーンの場合のコンテキストメニューのポップアップ位置の不正確な問題を修正
+- 非カレントタブを右クリックするとタブに切り替わるように変更
+- Windows msvc バージョンのローカルシェルでのカーソルの位置合わせエラーを修正するために、resizeQuirk を無効にする必要があります [#39](https://github.com/QQxiaoming/quardCRT/issues/39)
+- 複数行のテキスト貼り付けの確認が無効になっている問題を修正し、ユーザーが自分で有効/無効を設定できるようにします
+- テキストの貼り付けコンテンツで空行を自動的にトリミングする問題を修正し、ユーザーが自分で有効/無効を設定できるようにします
+- SSH 初期化ターミナルサイズの不安定な問題を修正 [#40](https://github.com/QQxiaoming/quardCRT/issues/40)
+- SSH リモートがアクティブに終了した後の確率クラッシュ問題を修正
+- フォント設定を組み込みフォントに戻すときのフォント表示の異常を修正
+- Linux の複数スクリーンでのウィンドウの移動/サイズ変更操作によるウィンドウ位置の異常問題を修正
+- 事前ビルドプラグイン [TextStatistics](https://github.com/QuardCRT-platform/plugin-TextStatistics) を追加し、事前ビルドプラグイン [CharacterCode](https://github.com/QuardCRT-platform/plugin-CharacterCode) を V0.0.3 に更新
+
+## [[V0.4.6](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.6)] - 2024-05-26
+
+- メインウィンドウのテーマカラー設定機能を追加
+- ステータスバーにセッション情報を表示する機能を追加
+- Windows 上で WSL ターミナルツールバーボタンを追加
+- ユーザー定義のプラグインロードパス設定を追加
+- 一部のシェル環境でタブをクローンするときに作業ディレクトリが正しくクローンされない問題を修正
+- キーボードバインディング設定で変更をキャンセルするときに変更が保存される問題を修正
+- すべてのタブを閉じるときに確認ダイアログがキャンセルを選択できない問題を修正
+- セッションプロパティを変更した後、セッションマネージャが現在選択されているセッションを誤って切り替える問題を修正
+- 隠れたタブグループに新しいセッションが作成される可能性がある問題を修正
+- 事前ビルドプラグイン [CharacterCode]((https://github.com/QuardCRT-platform/plugin-CharacterCode))、[ListSerial](https://github.com/QuardCRT-platform/plugin-ListSerial), を追加し、事前ビルドプラグイン [SearchOnWeb](https://github.com/QuardCRT-platform/plugin-SearchOnWeb) を V0.0.4 に更新
+
 ## [[V0.4.5](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.5)] - 2024-04-26
 
 - テキストが透過率 50% で強調表示された後、テキストを選択するようにターミナルを変更し、元の 100% ではなく 50% になります
