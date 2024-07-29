@@ -4,10 +4,26 @@
 
 ## [[リリース予定](https://github.com/QQxiaoming/quardCRT)]
 
+- スクリプト機能のための Python スクリプトエンジンを追加 [#31](https://github.com/QQxiaoming/quardCRT/pull/31)
+- 行末シーケンスを選択する機能を追加
+
+## [[V0.4.8](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.8)] - 2024-07-26
+
 - エコー機能を追加
 - 一部のセッションタイプが再接続できない問題を修正
 - 非接続状態のセッションが Enter キーをクリックすると自動的に再接続される機能を追加
 - シリアルポートが物理的な接続の切断を自動的に検出する機能を追加
+- シリアルポート選択ページにリフレッシュシリアルポートボタンを追加
+- 最大 4 つのウィンドウ分割画面モードと複数のレイアウトモードを追加
+- コマンド送信ウィンドウにシングル/グループ/全セッションの 3 つのモードを追加
+- プラグイン情報ページを追加してプラグインウェブサイトを表示
+- 通知センターを追加
+- 内部コマンドウィンドウを追加
+- URL 認識リンクのコンテキストメニューを改善
+- 検索ウィンドウを改善して、開くたびに現在選択されているテキストを自動的に入力するようにします
+- ステータスバーを改善
+- 非英語環境で Telnet セッションのストレージ構成エラーが発生し、接続問題が発生する問題を修正 [#IAADHZ](https://gitee.com/QQxiaoming/quardCRT/issues/IAADHZ)
+- 事前ビルドプラグイン [timestamp](https://github.com/QuardCRT-platform/plugin-timestamp) を追加し、事前ビルドプラグイン [ListSerial](https://github.com/QuardCRT-platform/plugin-ListSerial) を V0.0.3 に更新、事前ビルドプラグイン [CharacterCode](https://github.com/QuardCRT-platform/plugin-CharacterCode) を V0.0.4 に更新
 
 ## [[V0.4.7](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.7)] - 2024-06-26
 
