@@ -107,7 +107,7 @@ quardCRTはV0.4.0からプラグインをサポートし、プラグインはQt�
 ストアからインストール
 ----------------------------------
 
-.. image:: https://get.microsoft.com/images/ja-jp%20dark.svg
+.. image:: https://get.microsoft.com/images/ja%20dark.svg
    :target: https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct
    :alt: Microsoft Store
 
