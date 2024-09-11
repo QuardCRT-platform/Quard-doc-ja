@@ -96,6 +96,9 @@ QuardCRT は、複数のバックエンド プロトコルをサポートし、�
 - パスマッチングとワンクリック直接
 - 作業パス直接
 - Windowsローカルターミナルの強化（Tabキーで完全なコマンドを選択など）
+- セッションのブロードキャスト
+- セッション ラベル タグの色
+- ブロック選択 (Shift キーを押しながらクリック) と列選択 (Alt キーを押しながら Shift キーを押しながらクリック)
 
 ----------------------------------
 プラグイン
@@ -110,6 +113,26 @@ quardCRTはV0.4.0からプラグインをサポートし、プラグインはQt�
 .. image:: https://get.microsoft.com/images/ja%20dark.svg
    :target: https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct
    :alt: Microsoft Store
+
+----------------------------------
+寄付
+----------------------------------
+
+このプロジェクトが気に入ったら、作者に寄付してプロジェクトの開発をサポートできます。
+
+.. list-table:: 
+   :widths: 33 33 33
+   :header-rows: 0
+
+   * - .. image:: ./img/donate/paypal.jpg
+          :align: center
+     - .. image:: ./img/donate/alipay.jpg
+          :align: center
+     - .. image:: ./img/donate/wechat.jpg
+          :align: center
+   * - paypal
+     - alipay
+     - wechat
 
 .. toctree::
    :maxdepth: 3
