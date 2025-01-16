@@ -114,6 +114,10 @@ quardCRTはV0.4.0からプラグインをサポートし、プラグインはQt�
    :target: https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct
    :alt: Microsoft Store
 
+- .. image:: https://www.spark-app.store/assets/favicon-96x96-BB0Q9LsV.png
+   :target: https://spk-resolv.spark-app.store/?spk=spk://store/development/quardcrt
+   :alt: Spark Store
+
 ----------------------------------
 寄付
 ----------------------------------
